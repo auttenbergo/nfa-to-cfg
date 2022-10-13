@@ -8,7 +8,7 @@
 using namespace std;
 
 const string EPSILON = "EPSILON";
-const string NFA_SAMPLES_FILE_PATH = "/NFA Samples/";
+const string NFA_SAMPLES_FILE_PATH = "./NFA Samples/";
 
 struct State {
     bool isRecepient;
